@@ -1,0 +1,10 @@
+<table
+    class="table_data"
+    width="{TBL_WIDTH}"
+    align="center"
+    cellspacing="1"
+    cellpadding="4">
+{TITLE_ROW}
+{HEADER_ROW}
+{DATA_ROWs}
+</table>
